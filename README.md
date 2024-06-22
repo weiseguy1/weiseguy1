@@ -1,7 +1,7 @@
 ### Hello There
 
 <div id="header" align="center">
-    <img src="./assets/logo.png"/>
+    <img src="./assets/logo.png" width=100/>
 </div>
 
 
