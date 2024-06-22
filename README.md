@@ -1,7 +1,7 @@
 ### Hello There
 
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="425" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QzOXpqZng2MXBqbW95Zm1iZGFvbmF3emlzZ2d5cXVueXI3MmZkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
 </div>
 
 ### About Me
