@@ -40,3 +40,6 @@ I am a Systems Administrator from the USA :us:
     <img src="./assets/icons/vault.svg" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
+### :computer: Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
