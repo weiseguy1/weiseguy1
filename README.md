@@ -27,5 +27,16 @@ I am a Systems Administrator from the USA :us:
 - :envelope: If you wanna hire me, my timezone is CST. Shoot me an email.
 
 ### :hammer_and_wrench: Languages and Tools :
-
+<div>
+    <img src="./assets/logos/azure.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/ansible.png" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/golang.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/neovim.svg" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/nixos.svg" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/terraform.svg" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/packer.svg" title="" alt="" width="40" height="40"/>&nbsp;
+    <img src="./assets/logos/vault.svg" title="" alt="" width="40" height="40"/>&nbsp;
+</div>
 
