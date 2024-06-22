@@ -1,8 +1,9 @@
 ### Hello There
 
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QzOXpqZng2MXBqbW95Zm1iZGFvbmF3emlzZ2d5cXVueXI3MmZkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ1dmtlZzY4dms4a3ZlbzVvbWszNjRxOHJyZHkzY2NjdmdmOWg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
+
 
 ### About Me
 I am a Systems Administrator from the USA :us: 
