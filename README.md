@@ -42,4 +42,8 @@ I am a Systems Administrator from the USA :us:
 
 ### :computer: Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Library](https://weiseguy.net/library/)
+- [Setup 2FA on SSH](https://weiseguy.net/posts/how-to/setup/2fa-on-ssh/)
+- [How to Setup NFS](https://weiseguy.net/posts/how-to/setup/nfs/)
+- [How to Harden SSH](https://weiseguy.net/posts/how-to/harden/ssh/)
 <!-- BLOG-POST-LIST:END -->
