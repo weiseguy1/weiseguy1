@@ -7,6 +7,6 @@
 ### About Me
 I am a Systems Administrator from the USA :us: 
 - :book: Currently learning about DevOps
-- :seeding: A regularly write technical articles 
+- :seedling: A regularly write technical articles 
 - :envelope: If you wanna hire me, my timezone is CST. Shoot me an email.
 
