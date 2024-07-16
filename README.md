@@ -4,14 +4,8 @@
     </div>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/kyle-weise/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://weiseguy.net">
         <img src="https://img.shields.io/badge/Website-purple?logo=headspace&logoColor=white&style=for-the-badge" alt="Website Badge"/>
-    </a>
-    <a href="https://x.com/weiseguy">
-        <img src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
     </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=weiseguy1&style=flat-square&color=blue" alt=""/>
