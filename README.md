@@ -36,8 +36,8 @@ I am a Systems Administrator from the USA :us:
 
 ### :computer: Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to setup Bind in Docker](https://weiseguy.net/posts/how-to/setup/bind-in-docker/)
 - [Learning Devops &lpar;Day 02&rpar;: Ansible](https://weiseguy.net/posts/series/learning-devops/day-02-ansible/)
 - [How to Fix Networking in Proxmox](https://weiseguy.net/posts/how-to/fix/networking-in-proxmox/)
 - [Learning Devops &lpar;Day 01&rpar;: Terraform](https://weiseguy.net/posts/series/learning-devops/day-01-terraform/)
-- [How to Setup NixOS with LUKS and BTRFS](https://weiseguy.net/posts/how-to/setup/nixos-with-luks-and-btrfs/)
 <!-- BLOG-POST-LIST:END -->
